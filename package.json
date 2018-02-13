@@ -1,0 +1,26 @@
+{
+  "name": "bereich",
+  "version": "0.0.0",
+  "description": "bereich creates ranges of numbers.",
+  "contributors": [
+    {
+      "name": "Golo Roden",
+      "email": "golo.roden@thenativeweb.io"
+    }
+  ],
+  "main": "dist/bereich.js",
+  "dependencies": {},
+  "devDependencies": {
+    "assertthat": "1.0.0",
+    "roboter": "0.16.0",
+    "roboter-server": "0.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thenativeweb/bereich.git"
+  },
+  "keywords": [
+    "range"
+  ],
+  "license": "MIT"
+}
