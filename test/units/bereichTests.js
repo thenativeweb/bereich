@@ -2,7 +2,7 @@
 
 const assert = require('assertthat');
 
-const range = require('../../lib/bereich');
+const range = require('../../src/bereich');
 
 suite('bereich', () => {
   test('is a function.', async () => {
